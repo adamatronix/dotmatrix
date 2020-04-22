@@ -1,3 +1,7 @@
+
+import p5 from "p5";
+import dotBoid from "./dot.boid";
+
 var dotMatrix = (function(p5) {
 
     dotMatrix = function() {
